@@ -30,7 +30,7 @@ import (
 	"time"
 
 	"github.com/PelionIoT/edge-proxy/cmd"
-	"github.com/PelionIoT/moonchen/https"
+	"github.com/moonchen/edge-proxy/https"
 	"github.com/PelionIoT/edge-proxy/server"
 	fog_tls "github.com/PelionIoT/edge-proxy/tls"
 	"github.com/PelionIoT/remotedialer"
